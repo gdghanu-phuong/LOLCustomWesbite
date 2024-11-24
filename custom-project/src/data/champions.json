@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Seraphine",
+        "role":"Mage",
+        "difficulties":"Low",
+        "image":"https://i.pinimg.com/564x/c3/c3/68/c3c368c7d3ab9e7f551e50c0f89d6f00.jpg",
+        "desc": "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others—the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She performs for the sister cities to remind their citizens that they're not alone, that they're stronger together, and that, in her eyes, their potential is limitless.",
+        "quote":"THE STARRY-EYED SONGSTRESS"
+    },
+    {
+        "name":"Neeko",
+        "role":"Mage",
+        "difficulties":"Medium",
+        "image":"https://i.pinimg.com/564x/ec/16/74/ec1674dc0397f5a17169de4b440da930.jpg",
+        "desc":"Hailing from a long lost tribe of vastaya, Neeko can blend into any crowd by borrowing the appearances of others, even absorbing something of their emotional state to tell friend from foe in an instant. No one is ever sure where—or who—Neeko might be, but those who intend to do her harm will soon witness her true colors revealed, and feel the full power of her primordial spirit magic unleashed upon them.",
+        "quote":"THE CURIOUS CHAMELEON"
+    },
+    {
+        "name": "Janna",
+        "role": "Support",
+        "difficulties": "High",
+        "quote": "THE STORM'S FURY",
+        "image": "https://i.pinimg.com/736x/af/5d/a7/af5da7b1b870b48b9a325c7d25009893.jpg",
+        "desc": "An ancient and mysterious wind spirit, Janna has come to protect the dispossessed of Zaun. While her presence is most often felt as a soothing breeze or a ferocious tempest, she also can manifest in corporeal form as an ethereal figure, comforting the downtrodden. Over the eons, Janna has witnessed the rise and fall of civilizations. Through it all, she remains steadfast as a beacon of hope to those in need."
+    },
+    {
+        "name": "miss fortune",
+        "role": "Marksman",
+        "difficulties": "Medium",
+        "quote": "THE BOUNTY HUNTER",
+        "image": "https://i.pinimg.com/564x/65/a5/15/65a5157575716b474d7790d7ad5abf24.jpg",
+        "desc": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank murder her family—an act she brutally avenged years later, blowing up his flagship while he was still aboard. Those who underestimate her will face a beguiling and unpredictable opponent… and, likely, a bullet or two in their guts."
+    },
+    {
+        "name":"Sona",
+        "role":"Support",
+        "difficulties":"Low",
+        "image":"https://i.pinimg.com/564x/c9/c8/8b/c9c88bb2efed62b8134435ceeb8d0a3b.jpg",
+        "desc":"Sona is Demacia's foremost virtuoso of the stringed etwahl, speaking only through her graceful chords and vibrant arias. This genteel manner has endeared her to the highborn, though others suspect her spellbinding melodies to actually emanate magic - a Demacian taboo. Silent to outsiders but somehow understood by close companions, Sona plucks her harmonies not only to soothe injured allies, but also to strike down unsuspecting enemies.",
+        "quote":"MAVEN OF THE STRINGS"
+    },
+    {
+        "name": "Lillia",
+        "role": "Fighter",
+        "difficulties": "High",
+        "quote": "THE BASHFUL BLOOM",
+        "image": "https://i.pinimg.com/736x/be/e1/d9/bee1d993fd28bc57b1d51380ff5b3ebc.jpg",
+        "desc": "Intensely shy, the fae fawn Lillia skittishly wanders Ionia's forests. Hiding just out of sight of mortals—whose mysterious natures have long captivated, but intimidated, her—Lillia hopes to discover why their dreams no longer reach the ancient Dreaming Tree. She now travels Ionia with a magical branch in hand, in an effort to find people's unrealized dreams. Only then can Lillia herself bloom and help others untangle their fears to find the sparkle within. Eep!"
+    }
+]

@@ -1,0 +1,54 @@
+[{
+    "role":"Support",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrR2p0iUNUdXz97L9w8I7oJyidh2zmYnH_6PBSxHK9RA&s",
+    "full_desc": "Supports are champions who assist their team by providing utility, crowd control, healing, and vision across the map. They are essential for protecting and enabling their teammates, particularly the AD Carry in the bottom lane.",
+    "short_desc": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+    "champ_pic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e632e5f3-ea51-4a14-a0fe-3478869513d3/dfe80ag-57babd53-99d7-4cd5-8f01-f941c23b099c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U2MzJlNWYzLWVhNTEtNGExNC1hMGZlLTM0Nzg4Njk1MTNkM1wvZGZlODBhZy01N2JhYmQ1My05OWQ3LTRjZDUtOGYwMS1mOTQxYzIzYjA5OWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wU_Rf0wGG4zA6ocy7-LJfncvANWTedRlHsUOXl1Btkw",
+    "champ_name": "Thresh",
+    "champ_desc": "The chain warden"
+},
+{
+    "role":"Mage",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzsqTdEEULBQnJJmx9c_jmxQspGo34WSgKWjw7q1TUDw&s",
+    "short_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tortor felis, cursus quis ullamcorper ut, venenatis id diam.",
+    "full_desc": "Mages are spellcasting champions who rely on abilities to deal magic damage. They excel at burst damage, crowd control, and area-of-effect spells. Mages are typically played in the mid lane but can also be found in other roles. They have high burst potential but are often squishy and reliant on mana.",
+    "champ_pic": "https://i.pinimg.com/originals/ea/20/4a/ea204a03a0cfc71d90bec02eba375d01.png",
+    "champ_name": "Lux",
+    "champ_desc": "The lady of Luminosity"
+},
+{
+    "role":"Marksman",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36BzOHxdqjQP3Fgm2B4DxuQahTFKeFUKAdL2z492O0g&s",
+    "short_desc": "Duis efficitur felis est. Pellentesque cursus, risus vitae fringilla venenatis, dui arcu efficitur lorem, ut ultricies diam risus eget massa. ",
+    "full_desc": "Marksmen, also known as AD Carries, are ranged champions who deal consistent physical damage from a distance. They are essential for taking down objectives and dealing sustained damage in team fights. Marksmen scale heavily with items and are vulnerable early in the game but become powerful in the late game.",
+    "champ_pic": "https://purepng.com/public/uploads/large/purepng.com-classic-miss-fortune-skinsplashartchampionleague-of-legendsskinmiss-fortune-331519928454puwds.png",
+    "champ_name": "Miss Fortune",
+    "champ_desc": "The bounty hunter"
+},
+{
+    "role":"Tank",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kIUCFkjIjJtWtVGGC5aTmUtZXrA20b0T9wZok_8VYg&s",
+    "short_desc":"Cras volutpat in turpis a tincidunt. Quisque id faucibus arcu, sit amet gravida tellus. Fusce vel convallis libero.",
+    "full_desc": "Tanks are durable champions who excel at absorbing damage and disrupting enemy teams. They are front-line fighters who soak up damage to protect their teammates. Tanks have crowd control abilities that can initiate team fights or peel for their carries.",
+    "champ_pic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e632e5f3-ea51-4a14-a0fe-3478869513d3/df0vmbd-08b5174c-8a02-4898-bf54-ab208bc04723.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U2MzJlNWYzLWVhNTEtNGExNC1hMGZlLTM0Nzg4Njk1MTNkM1wvZGYwdm1iZC0wOGI1MTc0Yy04YTAyLTQ4OTgtYmY1NC1hYjIwOGJjMDQ3MjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wftp9qqBgA-bUND3Qhmwsy4gf5A84BZad2FstAF5vn8",
+    "champ_name": "Leona",
+    "champ_desc": "The radiant dawn"
+},
+{
+    "role":"Fighter",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1XAm8t1jM-SkFdKsRtJ1NyE85kBg3vbKoktnXo1Jbw&s",
+    "short_desc":"Quisque luctus purus in odio volutpat sagittis. Nunc porttitor ipsum sed enim ultricies placerat. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+    "full_desc": "Fighters are versatile melee champions who combine damage with durability. They excel in extended skirmishes and can adapt their builds to fulfill different roles in the team. Fighters are effective in both offense and defense, capable of diving into the enemy team or peeling for their carries.",
+    "champ_pic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b37b3fec-4640-40af-9505-6c6cf67c4c5a/degvnnh-040f46e1-c74f-49fc-8a45-e2ea8eacdd1a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IzN2IzZmVjLTQ2NDAtNDBhZi05NTA1LTZjNmNmNjdjNGM1YVwvZGVndm5uaC0wNDBmNDZlMS1jNzRmLTQ5ZmMtOGE0NS1lMmVhOGVhY2RkMWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kb__CxKOJPelYAC-qndysrn52zaQhP-1-6hf47oIFIg",
+    "champ_name": "Yasuo",
+    "champ_desc": "The unforgiven"
+},
+{
+    "role":"Assasins",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDJqM8U-z9UB7kq7acuULHMylF3ZNPCDXM7y4-ExAvQ&s",
+    "short_desc": "Morbi tristique velit id eros consequat, vel interdum quam facilisis. Mauris nec est felis.",
+    "full_desc": "Assassins are agile and high-damage champions who excel at quickly eliminating priority targets. They are adept at ambushing enemies, picking off isolated opponents, and creating chaos in team fights. Assassins often have mobility tools and rely on burst damage to secure kills before retreating.",
+    "champ_pic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4fe006ef-2ed2-48d6-a5b4-362d5fd1a399/ddpc2yb-2fb00f1c-6fe8-4006-a094-33c6cb5fe0bb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRmZTAwNmVmLTJlZDItNDhkNi1hNWI0LTM2MmQ1ZmQxYTM5OVwvZGRwYzJ5Yi0yZmIwMGYxYy02ZmU4LTQwMDYtYTA5NC0zM2M2Y2I1ZmUwYmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.th0Ud7Rv__DnyL3YPKBKFIsyxXo3ecua96OLlwXPr5w",
+    "champ_name": "Akali",
+    "champ_desc": "The rogue assasins"
+}]

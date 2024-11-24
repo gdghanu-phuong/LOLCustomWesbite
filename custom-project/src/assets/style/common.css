@@ -1,0 +1,28 @@
+
+
+div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 100%;
+}
+.content{
+    z-index: -1;
+    margin-top: 7rem;
+}
+
+.rotate-text {
+    transform-origin: 0 0;
+    transform: rotate(-90deg);
+    margin-top: 150px;
+    text-transform: uppercase;
+}
+
+.logo-btn{
+    opacity: 0.5;
+}
+.logo-btn:hover{
+    opacity: 1;
+    outline: none;
+}/* style for logo footer hover*/
+
+
+
